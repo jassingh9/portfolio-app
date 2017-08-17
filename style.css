@@ -1,0 +1,201 @@
+/*CSS reset settings here*/
+
+#wrapper{
+    height: 900px;
+    padding: 15px;
+    width: 909px;
+    background: radial-gradient(#1B0B0F, #6F5964);
+    margin: auto;
+   }
+   #header{
+    background: radial-gradient(#F2F2F2, #F7F7F7);
+    width: 940px;
+    margin: -15px;
+    display: inline-block;
+    font-size: small;
+    font-family: "Comic Sans MS";
+    height: 60px;
+   }
+   #photo{
+    height: 273px;
+    margin-top: 20px;
+    width: 410px;
+    display: inline-block;
+    background-color: #C0C0C0;
+   }
+   #border{
+    height: 272px;
+    width: 460px;
+    float: left;
+    margin-left: 435px;
+    margin-top: -272px;
+    background: radial-gradient(#FEFEFE, #DBCDDB);
+   }
+   #about{
+    height: 37px;
+    width: -44px;
+    background: radial-gradient(#898895, #A9A8AE);
+    margin-top: -19px;
+    color: #FFFFFF;
+   }
+   #pic{
+       margin-top: -272px;
+       margin-left: 4px;
+   }
+   .aboutText{
+       position: relative;
+
+       top: 7px;
+       left: 10px;
+       font-size: larger 
+   }
+   .mainBlock{
+       margin:24px;
+       height: 553px;
+       width: 270px;
+       float: left;
+       margin-left: 9px;
+       margin-top: 20px;
+       background-color: #ECE4EC;
+      }
+    #bottom{
+       background: radial-gradient(#F2F2F2, #F7F7F7);
+       width: 940px;
+       margin: -15px;
+       display: inline-block;
+       height: 70px;
+       text-align: center;
+       font-size: small;
+    }
+    .lamode{
+       height: 37px;
+       width: -44px;
+       vertical-align: bottom;
+       background: radial-gradient(#898895, #A9A8AE);
+       margin-top: -19px;
+       color: #FFFFFF;
+       font-size: larger;
+    }
+    .family{
+       height: 37px;
+       width: -44px;
+       vertical-align: bottom;
+       background: radial-gradient(#898895, #A9A8AE);
+       margin-top: -19px;
+       color: #FFFFFF;
+       font-size: larger;
+    }
+    .five{
+       height: 37px;
+       width: -44px;
+       vertical-align: bottom;
+       background: radial-gradient(#898895, #A9A8AE);
+       margin-top: -19px;
+       color: #FFFFFF;
+       font-size: larger;
+      
+    }
+    .laModeText{
+       position: relative;
+       top: 7px;
+       left: 5px;
+    }
+    .famText{
+       position: relative;
+       top: 7px;
+       left: 5px;
+    }
+    .fiveText{
+       position: relative;
+       top: 7px;
+       left: 5px;
+}
+    .tech{
+       height: 37px;
+       width: -44px;
+       vertical-align: bottom;
+       background: radial-gradient(#898895, #A9A8AE);
+       margin-top: 100px;
+       color: #FFFFFF;
+       font-size: larger;
+    }
+   #lamDesc{
+       text-indent: 6px;
+       margin-top: -10px;
+       font-size: 14px;
+       margin-left: 2px;
+   }
+   #famDesc{
+       text-indent: 6px;
+       margin-top: -45px;
+       font-size: 14px;
+       position: relative;
+       top: 35px;
+       margin-left: 2px;
+   }
+   #fiveDesc{
+       text-indent: 6px;
+       font-size: 14px;
+       margin-top: -60px;
+       position: relative;
+       top: 50px;
+       margin-left: 2px;
+   }
+   .fiveTech{
+       position: relative;
+       top: 7px;
+       left: 5px; 
+   }
+     .famTech{
+       position: relative;
+       top: 7px;
+       left: 5px; 
+   }
+     .lamTech{
+       position: relative;
+       top: 7px;
+       left: 5px; 
+   }
+   #techLAM{
+       margin-top:10px;
+       margin-left:5px;
+   }
+   #techFIVE{
+       margin-top: 10px;
+       margin-left: 5px;
+   
+   }
+   #techFAM{
+       margin-top:10px;
+       margin-left:5px;
+   }
+   .lamBut{
+        height: 20px;
+        border-radius: 20px;
+        margin-top: 15px;
+        width: 70px;
+        margin-left: 75px;
+        text-align: center;
+        color: white;
+        background-color: #407D61;
+   }
+    .famBut{
+        height: 20px;
+        width: 113px;
+        border-radius: 20px;
+        margin-top: 15px;
+        margin-left: 75px;
+        background-color: #407D61;
+        color: white;
+        text-align: center;
+    }
+    .fiveBut{
+        height: 20px;
+        width: 80px;
+        border-radius: 20px;
+        margin-top: 15px;
+        margin-left: 75px;
+        text-align: center;
+        color: white;
+        background-color: #407D61;
+    }
