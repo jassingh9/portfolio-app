@@ -1,0 +1,9 @@
+# CodingDojo-CSS-Portfolio
+Portfolio
+Break down the image below into proper HTML and CSS.
+
+Before you submit your work:
+
+Download the cropped images as for this exercise.
+Make sure you've validated your HTML at https://validator.w3.org/
+Make sure you've refactored your code. Don't use unnecessary division tags, classes or ids.
