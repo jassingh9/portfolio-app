@@ -2,5 +2,4 @@
 # Portfolio App
 
 ## Technologies: 
--HTML
--CSS
+HTML & CSS
